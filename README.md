@@ -7,7 +7,7 @@ Unidade utilizada para responsivo foi baseada em design base de 375px para visua
 <img src="./src/images/lane-page.gif" alt="Imagem da página">
 
 
-[<img src="./src/images/responsivo.gif" alt="imagem site responsivo 375px">]
+<img src="./src/images/responsivo.gif" alt="imagem site responsivo 375px">
 
 ## Tecnologias Utilizadas
 
