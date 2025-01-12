@@ -1,0 +1,57 @@
+@media (max-width:375px) {
+    .container {
+        background-image: url(../images/bg-mobile.svg);
+        background-color: hsl(257, 40%, 49%);
+        height: 100vh;
+    }
+
+    .logo img {
+        width: 160px;
+        padding-top: 30px;
+        padding-left: 40px;
+
+    }
+
+    .pagina {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .painel img {
+        width: 100%;
+        margin: 0;
+        padding-top: 52px;
+        padding-left: 40px;
+
+    }
+
+    .informacoes {
+        text-align: center;
+
+    }
+
+    .informacoes h1 {
+        font-size: 25px;
+        padding: 50px 20px 0 20px;
+    }
+
+    .informacoes p {
+        font-size: 15px;
+        padding: 0 40px;
+        font-weight: 200;
+    }
+
+    .btn {
+        width: 55%;
+        height: 40px;
+        font-size: 12px;
+    }
+
+    .icons {
+        justify-content: center;
+        padding-left: 55px;
+        padding-top: 60px;
+    }
+
+
+}
